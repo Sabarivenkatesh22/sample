@@ -1,0 +1,12 @@
+#title{
+    background-color: #79c9ce;
+}
+h1{
+    font-family: 'Montserrat-black';
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
